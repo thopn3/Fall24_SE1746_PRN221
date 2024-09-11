@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 D:\Code demo\PRN221\SE1746\WindowPage_WPF\WindowPage_WPF\App.xaml
-3-430243084
+5-1034651643
 
-836873752
+10948906737
 194-1977528901
-MainWindow.xaml;Page_01.xaml;Page_02.xaml;
+Controls\FrmDataGrid.xaml;FrmLogin.xaml;MainWindow.xaml;Page_01.xaml;Page_02.xaml;
 
 True
 

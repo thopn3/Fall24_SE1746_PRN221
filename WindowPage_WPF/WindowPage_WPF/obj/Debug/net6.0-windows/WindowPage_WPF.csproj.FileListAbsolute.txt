@@ -23,3 +23,5 @@ D:\Code demo\PRN221\SE1746\WindowPage_WPF\WindowPage_WPF\obj\Debug\net6.0-window
 D:\Code demo\PRN221\SE1746\WindowPage_WPF\WindowPage_WPF\obj\Debug\net6.0-windows\WindowPage_WPF.pdb
 D:\Code demo\PRN221\SE1746\WindowPage_WPF\WindowPage_WPF\obj\Debug\net6.0-windows\WindowPage_WPF.genruntimeconfig.cache
 D:\Code demo\PRN221\SE1746\WindowPage_WPF\WindowPage_WPF\obj\Debug\net6.0-windows\ref\WindowPage_WPF.dll
+D:\Code demo\PRN221\SE1746\WindowPage_WPF\WindowPage_WPF\obj\Debug\net6.0-windows\FrmLogin.g.cs
+D:\Code demo\PRN221\SE1746\WindowPage_WPF\WindowPage_WPF\obj\Debug\net6.0-windows\FrmLogin.baml

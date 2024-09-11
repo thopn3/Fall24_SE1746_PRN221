@@ -7,6 +7,12 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="Controls\FrmDataGrid.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="FrmLogin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Page_01.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -15,6 +21,12 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="Controls\FrmDataGrid.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="FrmLogin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
