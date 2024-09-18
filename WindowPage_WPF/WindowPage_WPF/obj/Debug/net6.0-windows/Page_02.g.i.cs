@@ -53,7 +53,7 @@ namespace WindowPage_WPF {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WindowPage_WPF;component/page_02.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WindowPage_WPF;V1.0.0.0;component/page_02.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Page_02.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
