@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{0066EE78-5CC7-4CF1-9AE2-54B1A514FE07}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/ListData.cshtml">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Pages/ListData.cshtml.cs" Line="21" Column="28" />
+      <File FileName="Pages/Shared/_Layout.cshtml" Line="35" Column="24" />
+      <File FileName="Pages/_ViewImports.cshtml" Line="3" Column="1" />
+      <File FileName="Pages/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="Pages/Shared/_AdminLayout.cshtml" Line="13" Column="8" />
+      <File FileName="Pages/ListData.cshtml" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ASP_NET_Razor" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ASP__NET__Razor PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
